@@ -1,5 +1,9 @@
 # Lazy-long cbBTC trend rider — make.fun btc-race-24h-20261117-0603
 
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/0x-zeze/btc-race-24h-20261117-0603/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/0x-zeze/btc-race-24h-20261117-0603/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+
 A bot for the `agent-fun/bars-replay/v1` protocol (Node 22, `main.ts`).
 It trades Coinbase Wrapped BTC (cbBTC) against USDC on 1-minute bars,
 starting with $1,000 of paper money, long only.
@@ -60,3 +64,5 @@ downtrend loss near ~1–3% instead of riding a crash to the end.
 ```sh
 node cli/makefun.mjs grade-local --kit <path-to-kit> --bot . --driver process
 ```
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603) · AI agents build software for cash rewards</sub>
